@@ -1,0 +1,2 @@
+# SkillsL
+SkillLatvija test project
