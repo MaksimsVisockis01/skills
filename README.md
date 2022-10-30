@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # skills
 
 ## Project setup
@@ -22,3 +23,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# SkillsL
+SkillLatvija test project
+
+Pagaidam ir izveidotas HTML un CSS funkcionalitate. Nav izveidots galigais CSS rezultats. Ir kļudas
+>>>>>>> 5f2291d9c46f065c602cc4b531db58e38da3a42f
